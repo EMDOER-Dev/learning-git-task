@@ -31,4 +31,6 @@ for a in range(1, 101):
         print(a)
     if a % 5 == 0:
         print(a ** 3)
+
+print("COMMIT")
         
