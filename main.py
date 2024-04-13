@@ -33,4 +33,5 @@ for a in range(1, 101):
         print(a ** 3)
 
 print("COMMIT")
+print("COMMIT 2")
         
